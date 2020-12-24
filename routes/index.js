@@ -11,5 +11,7 @@ router.get('/aboutus',function(req,res){
 router.get('/contactus',function(req,res){
   res.render('contact')
 });
-
+router.get('/services',function(req,res){
+  res.render('services')
+});
 module.exports = router;
