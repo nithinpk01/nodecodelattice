@@ -1,8 +1,7 @@
 # nodecodelattice
 sample nodejs static website
 
-How to run
-npm install
-npm start
+Instructions
+1. npm install
+2. npm start
 
-Platform VS Code
